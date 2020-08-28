@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webdev-userblog-gallery/static/css/main.8d8ec2cf.chunk.css",
+    "main.js": "/webdev-userblog-gallery/static/js/main.2c6eb5aa.chunk.js",
+    "main.js.map": "/webdev-userblog-gallery/static/js/main.2c6eb5aa.chunk.js.map",
+    "runtime-main.js": "/webdev-userblog-gallery/static/js/runtime-main.44b82da6.js",
+    "runtime-main.js.map": "/webdev-userblog-gallery/static/js/runtime-main.44b82da6.js.map",
+    "static/js/2.ffb4553c.chunk.js": "/webdev-userblog-gallery/static/js/2.ffb4553c.chunk.js",
+    "static/js/2.ffb4553c.chunk.js.map": "/webdev-userblog-gallery/static/js/2.ffb4553c.chunk.js.map",
+    "index.html": "/webdev-userblog-gallery/index.html",
+    "precache-manifest.a385408b2f7eef455a960d476f04ab05.js": "/webdev-userblog-gallery/precache-manifest.a385408b2f7eef455a960d476f04ab05.js",
+    "service-worker.js": "/webdev-userblog-gallery/service-worker.js",
+    "static/css/main.8d8ec2cf.chunk.css.map": "/webdev-userblog-gallery/static/css/main.8d8ec2cf.chunk.css.map",
+    "static/js/2.ffb4553c.chunk.js.LICENSE.txt": "/webdev-userblog-gallery/static/js/2.ffb4553c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44b82da6.js",
+    "static/js/2.ffb4553c.chunk.js",
+    "static/css/main.8d8ec2cf.chunk.css",
+    "static/js/main.2c6eb5aa.chunk.js"
+  ]
+}
